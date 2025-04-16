@@ -1,4 +1,4 @@
-# app-users
+# E2E Playwright TS
 This is a test E2E Repo for automation scripts.
 
 ## Setup project
