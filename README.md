@@ -18,6 +18,9 @@ npx playwright test
 ```
 By default (pw config file) tests will be runned for all 3 browsers
 
+## GitHub Actions
+Navigate to Actions link. You can see the simple pipe 'e2e-tests'. It includes step: Run Playwright tests and generate Allure results.
+
 ## Notes
 
 ### Данная реализация автотестов была выполнена на основе полученного задания и указанных критериев.
